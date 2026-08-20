@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Personal portfolio site for Sophia Lee — Materials Science and Engineering at NTU, graduating May 2027. Built to showcase a set of data analysis and applied ML projects in one place.
+My personal portfolio site built to showcase a set of data analysis and applied ML projects in one place.
 
 **Live site:** https://lhysop689.github.io/portfolio-website/
 
